@@ -1,0 +1,2 @@
+Hello there ! 
+Its Nour Daadouch here ,i'm a 20 years old junior biology undergrade at princess Nourah University getting into bioinformatics and omics .Trained with Sadaia , Kaust and the Saudi Fedration for Robotics in programing and bioinforamtics .Currently training with KFRC (King Fahed Research Center) at the bioinforamtics department and working on human genome Data analysis and data base querying
